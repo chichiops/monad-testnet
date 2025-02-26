@@ -33,7 +33,7 @@ MonadSwap/
 ```
 1. Clone the repository
 ```bash
-git clone https://github.com/chichiops/StarLabs-Monad.git](https://github.com/chichiops/MonadSwap.git
+git clone https://github.com/chichiops/MonadSwap.git
 cd MonadSwap
 ```
 
