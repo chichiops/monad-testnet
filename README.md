@@ -6,7 +6,7 @@
 - 💱 Perform token swaps
 - 🏦 Stake MON
 - 🦉 Deploy contract 
-- 💎 Supprt Multi Akun & Proxy 
+- 💎 Support Multi Akun & Proxy 
 
 ```bash
 MonadSwap/
