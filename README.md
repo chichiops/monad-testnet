@@ -6,7 +6,7 @@ This tool automates interactions with the Monad testnet, including various DeFi 
 - 💱 Perform token swaps
 - 🏦 Stake MON
 - 🦉 Deploy contract 
-- 💎 Supprt Multi Akun $ Proxy 
+- 💎 Supprt Multi Akun & Proxy 
 
 ```bash
 MonadSwap/
@@ -42,7 +42,7 @@ cd MonadSwap
 npm install prompts colors ethers https-proxy-agent node-fetch path fs axios
 ```
 
-3. Set Private Key $ Proxy
+3. Set Private Key & Proxy
 ```bash
 private_key_1|host:port:username:password
 private_key_2|host:port
